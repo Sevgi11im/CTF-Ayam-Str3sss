@@ -13,6 +13,6 @@ Beliau memiliki jiwa kepemimpinan yang tinggi. Sejak kecil, beliau dikenal sebag
 
 
 ## Files : 
- - [chall.zip](./chall.zip)
+ - [chall.zip](dist/chall.zip)
 
 
