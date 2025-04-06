@@ -7,8 +7,8 @@
 I came across this photo in my gallery from a visit on February 2, 2025, but I can't recall where I took it. Can you help me figure it out?<br><br>
 what3words: https://what3words.com/
 <br><br>
-*Note*:
-<br><br>
+**Note**:
+<br>
 - Change what3words language to English in what3words settings.
 - The what3words landmark is exact position of the photo.
 <br><br>
