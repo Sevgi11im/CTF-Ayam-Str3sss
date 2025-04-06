@@ -13,6 +13,6 @@ Beliau memiliki jiwa kepemimpinan yang tinggi. Sejak kecil, beliau dikenal sebag
 
 
 ## Files : 
- - [chall.zip](dist/chall.zip)
+ - [chall.zip](https://github.com/Sevgi11im/CTF-Ayam-Str3sss/raw/refs/heads/main/2025-RECURSION_1.0/foren/Combination/dist/chall.zip)
 
 
